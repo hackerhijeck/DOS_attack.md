@@ -9,3 +9,8 @@ One server which is only allowing max image of 5kb, 260x260 pixel in fileupload 
 and he may intercept from burpsuite, and he changes the size in upload functioanality, then Server will may crashed and DDOS will successfully.
 ### References:
 https://vulners.com/hackerone/H1:390
+
+## Serialization:
+
+
+## Deserialization:
